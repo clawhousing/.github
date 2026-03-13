@@ -1,4 +1,4 @@
-# ClawHousing
+# 🦞 ClawHousing
 
 **Your Personal AI Assistant, Hosted.**
 
